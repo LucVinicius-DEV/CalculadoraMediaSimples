@@ -1,10 +1,51 @@
-# Calculadora de Média Simples
+![Banner](./banner.png)
 
-Este é um programa simples em Java que lê dois números informados pelo usuário, calcula a média aritmética entre eles e exibe o resultado.
+<h1 align="center">🧮 Calculadora de Média Simples - Exercício em Java</h1>
 
-Exemplo de Saida
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED9B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Exercício-Estrutura%20Sequencial-blue?style=for-the-badge" />
+</p>
 
-Digite um numero: 7
-Digite outro numero: 9
-A media simples de 7.0 e 9.0 e: 8.0
-Fim do programa!
+## ✍️ Descrição
+
+Este programa em Java realiza o cálculo de uma **média aritmética simples** entre dois números informados pelo usuário.  
+Após receber os dois valores, ele calcula a média e exibe o resultado formatado.
+
+---
+
+## ▶️ Exemplo de uso
+
+### **Entrada**
+
+7
+8
+
+### **Saída**
+
+MÉDIA = 7.5
+
+---
+
+## 🧠 Conceitos aplicados
+
+- Leitura de dados com `Scanner`  
+- Operações matemáticas básicas  
+- Impressão formatada  
+- Estrutura sequencial
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+- Java  
+- IntelliJ IDEA (ou qualquer editor/IDE de sua preferência)
+
+---
+
+## 🚀 Autor
+
+Feito com carinho por **Lucas Vinicius**  
+Repositório criado como parte da jornada de estudos em Java.
+
+---
