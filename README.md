@@ -1,51 +1,52 @@
-![Banner](./banner.png)
+![Banner](https://github.com/LucVinicius-DEV/CalculadoraMediaSimples/blob/main/banner.png)
 
-<h1 align="center">🧮 Calculadora de Média Simples - Exercício em Java</h1>
+# ➗ Calculadora de Média Simples em Java
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED9B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Exercício-Estrutura%20Sequencial-blue?style=for-the-badge" />
-</p>
-
-## ✍️ Descrição
-
-Este programa em Java realiza o cálculo de uma **média aritmética simples** entre dois números informados pelo usuário.  
-Após receber os dois valores, ele calcula a média e exibe o resultado formatado.
+Repositório com um exercício básico em Java que realiza o cálculo da média entre dois números. Este projeto é voltado para iniciantes que desejam praticar entrada de dados, operações matemáticas e exibição de resultados.
 
 ---
 
-## ▶️ Exemplo de uso
+## 📚 Projeto disponível
 
-### **Entrada**
-
-7
-8
-
-### **Saída**
-
-MÉDIA = 7.5
+- [CALCULADORA DE MÉDIA](./src) — Programa simples que solicita dois valores ao usuário, calcula a média aritmética e exibe o resultado.
 
 ---
 
-## 🧠 Conceitos aplicados
+## 🛠️ Tecnologias Utilizadas
 
-- Leitura de dados com `Scanner`  
-- Operações matemáticas básicas  
-- Impressão formatada  
-- Estrutura sequencial
-
----
-
-## 🛠️ Tecnologias utilizadas
-
-- Java  
-- IntelliJ IDEA (ou qualquer editor/IDE de sua preferência)
+- Java
+- IntelliJ IDEA
+- Git & GitHub
 
 ---
 
-## 🚀 Autor
+# 🧮 Sobre o Projeto
 
-Feito com carinho por **Lucas Vinicius**  
-Repositório criado como parte da jornada de estudos em Java.
+Este projeto serve como introdução ao uso de variáveis, entrada via terminal e operações aritméticas em Java.
+
+## ✨ Funcionalidades
+
+- Leitura de dois números do tipo `double`.
+- Cálculo da média aritmética.
+- Impressão do resultado no terminal.
 
 ---
+
+## ▶️ Como executar
+
+1. Clone o repositório ou abra diretamente na sua IDE Java preferida.
+2. Acesse o diretório `/src` e abra o arquivo `Main.java`.
+3. Execute o programa e siga as instruções exibidas no terminal.
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por Lucas Vinícius com apoio da Luna, como parte da jornada de aprendizado em programação Java.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Vinícius-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lucas-vin%C3%ADcius-05b41a35b/)  
+[![GitHub](https://img.shields.io/badge/GitHub-LucVinicius--DEV-black?style=flat&logo=github)](https://github.com/LucVinicius-DEV)
+
+---
+
+Se você gostou deste projeto, deixe um ⭐ para apoiar o repositório e acompanhe o progresso pelo [LinkedIn](https://www.linkedin.com/in/lucas-vin%C3%ADcius-05b41a35b/) e pelo [GitHub](https://github.com/LucVinicius-DEV)!
